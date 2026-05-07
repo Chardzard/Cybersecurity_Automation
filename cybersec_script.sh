@@ -180,7 +180,7 @@ credential_strength_checker() {
 #######################################################################
 exit_program() {
 	echo
-	echo -e "\e[32mExiting . . .\e[0m"
+	echo -e "\e[32mExiting . . . Goodbye $username!\e[0m"
 	exit 0
 }
 
